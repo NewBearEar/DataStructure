@@ -142,10 +142,12 @@
     <ClCompile Include="..\..\..\DataStruture\LinkList.cpp" />
     <ClCompile Include="..\..\..\DataStruture\SeqList.cpp" />
     <ClCompile Include="DataStructure.cpp" />
+    <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\DataStruture\LinkList.h" />
     <ClInclude Include="..\..\..\DataStruture\SeqList.h" />
+    <ClInclude Include="Stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
